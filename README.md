@@ -3,7 +3,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wskraymond&label=Profile%20views&color=0e75b6&style=flat" alt="wskraymond" /> </p>
 
+<h3 align="left">Project</h3>
+
 - 🔭 I’m currently working on [OptimalPortfolio](https://github.com/wskraymond/OptimalPortfolio)
+
+- [Let's re-invent the wheel in kernel](https://github.com/wskraymond/Master-projects)
+
+- [Blokus-Web-Game](https://github.com/wskraymond/Blokus-Web-Game)
+  
+<h3 align="left">Sharing</h3>
+
+<p align="left"> Dynaming programming using numpy array </p>
+
+- [Options](https://github.com/wskraymond/Options)
+
+
+<p align="left"> My curated list of 80+ LC Questions </p>
+
+- [Java](https://github.com/wskraymond/algo)
+
+- [Python - editing](https://github.com/wskraymond/pydsa)
 
 
 <h3 align="left">Languages and Tools:</h3>
