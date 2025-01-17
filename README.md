@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Raymond</h1>
-<h3 align="center">A passionate Java/Python developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wskraymond&label=Profile%20views&color=0e75b6&style=flat" alt="wskraymond" /> </p>
 
